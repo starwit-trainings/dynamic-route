@@ -1,0 +1,100 @@
+[
+    {
+      "firstName": "James",
+      "name": "Strachan",
+      "examName": "ActiveMQ Tutorial",
+      "grade": 1,
+      "schoolId" : "school-12345678"
+    },
+    {
+      "firstName": "Claus",
+      "name": "Ibsen",
+      "examName": "Camel Core",
+      "grade": 2,
+      "schoolId" : "school-12345679"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Markus",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 2,
+        "schoolId": "school-12345678"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Anett",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345677"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Anett",
+        "examName": "SpringBoot Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345676"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Markus",
+        "examName": "SpringBoot Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345675"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Florian",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345678"
+    },
+    {
+      "firstName": "James",
+      "name": "Strachan",
+      "examName": "ActiveMQ Tutorial",
+      "grade": 1,
+      "schoolId" : "school-12345678"
+    },
+    {
+      "firstName": "Claus",
+      "name": "Ibsen",
+      "examName": "Camel Core",
+      "grade": 2,
+      "schoolId" : "school-12345679"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Markus",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 2,
+        "schoolId": "school-12345678"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Anett",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345677"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Anett",
+        "examName": "SpringBoot Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345676"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Markus",
+        "examName": "SpringBoot Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345675"
+    },
+    {
+        "name": "Starwit",
+        "firstName": "Florian",
+        "examName": "ActiveMQ Tutorial",
+        "grade": 1,
+        "schoolId": "school-12345678"
+    }
+  ]
